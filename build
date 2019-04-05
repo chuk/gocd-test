@@ -15,7 +15,7 @@ done
 cat >my-artifact.html <<EOF
 <html>
 <body>
-<h3>An example artifact 3</h3>
+<h3>An example artifact 33</h3>
 <pre>
 ==== ==== ====
 An example artifact, created on: $(date)
